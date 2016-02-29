@@ -1,2 +1,0 @@
-exemplo git frutasss
-obla
