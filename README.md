@@ -1,3 +1,0 @@
-# Git
-# Meu Repo
-#
